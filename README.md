@@ -6,4 +6,4 @@ The app has a start recording button and a stop recording button.
 # Demo Link
 https://tensorflow-object-detect-dea3c.web.app/
 
-For this to work as indended, access to your camera and audio is required.
+For this to work as intended, access to your camera and audio is required.
